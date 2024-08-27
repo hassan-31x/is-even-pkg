@@ -1,0 +1,26 @@
+{
+  "name": "is-even-pkg",
+  "version": "1.0.0",
+  "description": "Check if a number is even or not",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassan-31x/is-even-pkg.git"
+  },
+  "keywords": [
+    "even"
+  ],
+  "author": "hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassan-31x/is-even-pkg/issues"
+  },
+  "homepage": "https://github.com/hassan-31x/is-even-pkg#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
